@@ -1,10 +1,10 @@
-macro_cont+-{
+macro_contPlusMinus: macro_cntrMinus{
 compatible = "zmk,behavior-macro";
 label = "macro_cont+-";
 #binding-cells = <0>;
 bindings = <&kp LEFT_CONTROL>, <&kp MINUS>;
 };
-macro_control+up_arro: macro_control+up_arro{
+macro_ctrPlusUpArrow: macro_control+up_arro{
 compatible = "zmk,behavior-macro";
 label = "macro_control+up_arro";
 #binding-cells = <0>;
