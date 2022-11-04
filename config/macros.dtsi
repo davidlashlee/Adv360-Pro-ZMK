@@ -1,4 +1,4 @@
-macro_cont+-: macro_cont+-{
+macro_cont+-{
 compatible = "zmk,behavior-macro";
 label = "macro_cont+-";
 #binding-cells = <0>;
